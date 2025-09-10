@@ -16,11 +16,11 @@ Basta baixar os executáveis gerados na pasta `dist/` e rodar normalmente:
 
 - Mesclador de PDFs:
   ```bash
-  mesclador_pdfs.exe
+  Mesclador de PDFs.exe
   ```
 - Organizador de Arquivos:
   ```bash
-  organizador_arquivos.exe
+  Organizador de Arquivos.exe
   ```
 
 ### 2. Executando com Python (recomendado para desenvolvedores)
